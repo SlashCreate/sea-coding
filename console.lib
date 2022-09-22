@@ -1,0 +1,3 @@
+lib.info: "Simple Console Addon" "randyruby"
+lib.syantax: "term" "txt"
+lib.onrun: "exec root\cd\sys32\cmd.lib" "txt"
